@@ -1,2 +1,3 @@
-# TP_AySO
-TP1 ARQ Y SO 2025
+Alumno: <Axel>
+División: <115>
+Turno: <Mañana>
